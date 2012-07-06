@@ -19,7 +19,7 @@ Features:
 
 If you like this plugin, remember to vote :)
 
-[plugin home page](http://www.pixel-conception.com)
+[plugin home page](http://www.pixel-conception.com/menu_url_plugin_wordpress.html)
 
 == Installation ==
 
