@@ -41,5 +41,5 @@ Replace old files with new files :)
 
 == Changelog ==
 
-= 1.0 =
+= 1.00 =
 * Plugin published.
