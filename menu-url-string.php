@@ -2,7 +2,7 @@
 /*
 Plugin Name: Url Conditionnal Category List
 Plugin URI: http://www.pixel-conception.com/menu_url_plugin_wordpress.html
-Version: 1.0
+Version: 1.1
 Description: This Widget Plugin enables a list or dropdown of categories based if the url contain a certain string
 Author: Rousseau Antoine
 Author URI: http://www.pixel-conception.com/
