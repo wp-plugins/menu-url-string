@@ -1,4 +1,4 @@
-===  Url Conditionnal Category List plugin widget ===
+===  Url Conditionnal Category List Plugin Widget ===
 Contributors: tonio7788
 Donate link: http://www.pixel-conception.com
 Tags: menu, url, string, contain, conditionnal, category, categories, sub category, sub categories, list, list sub category, list sub categories, sidebar, widget, plugin
@@ -14,7 +14,7 @@ This Widget Plugin enables a list or dropdown of categories if the url contain a
 
 Features:
 
-* choose your category
+* Choose your category
 * Select which categories to use the widget on.
 * Entry the url conditional string that determines if or not the menu appears
 
