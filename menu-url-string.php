@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: menu-url-string
+Plugin Name: Url Conditionnal Menu
 Plugin URI: http://www.pixel-conception.com/menu_url_plugin_wordpress.html
 Version: 1.0
-Description: This Widget Plugin enables a menu based if a string is in url
+Description: This Widget Plugin enables a menu based if the url contain a determinate string
 Author: Rousseau Antoine
 Author URI: http://www.pixel-conception.com/
 */
