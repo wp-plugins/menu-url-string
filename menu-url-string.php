@@ -25,7 +25,7 @@ class url_conditionnal_category_Widget extends WP_Widget {
 		/* Our variables from the widget settings. */
 		$title = apply_filters('widget_title', $instance['title'] );
 			$keyword = apply_filters('widget_keyword', $instance['keyword'] );
-	if (stripos($_SERVER['REQUEST_URI'],$keyword) !== false) {$category_id = $instance['category_id'];}
+	if (stripos($_SERVER['REQUEST_URI'],$keyword) !== false) {$category_id = $instance['category_id'];
 	
 		$show_as_dropdown = isset( $instance['show_as_dropdown'] ) ? $instance['show_as_dropdown'] : false;
 		$show_post_counts = isset( $instance['show_post_counts'] ) ? $instance['show_post_counts'] : false;
@@ -53,7 +53,7 @@ class url_conditionnal_category_Widget extends WP_Widget {
 
 		/* After widget (defined by themes). */
 		echo $after_widget;
-	}
+	}}
 
 	/**
 	 * Update the widget settings.
