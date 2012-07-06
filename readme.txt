@@ -44,3 +44,5 @@ Replace old files with new files :)
 
 = 1.00 =
 * Plugin published.
+= 1.1 =
+* more stable
