@@ -1,6 +1,6 @@
 ===  Url Conditionnal Category List Plugin Widget ===
 Contributors: tonio7788
-Donate link: http://www.pixel-conception.com
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MD8Q3ZC8J3BGU
 Tags: menu, url, string, contain, conditionnal, category, categories, sub category, sub categories, list, list sub category, list sub categories, sidebar, widget, plugin
 Requires at least: 3.0
 Tested up to: 3.4
@@ -20,7 +20,7 @@ Features:
 
 If you like this plugin, remember to vote :)
 
-[plugin home page](http://www.pixel-conception.com/)
+[plugin home page](http://www.pixel-conception.com/menu_url_plugin_wordpress.html)
 
 == Installation ==
 
