@@ -1,7 +1,7 @@
-===  Url Conditionnal Category List Plugin Widget ===
+===  Url Conditional Category List Plugin Widget ===
 Contributors: tonio7788
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MD8Q3ZC8J3BGU
-Tags: menu, url, string, contain, conditionnal, category, categories, sub category, sub categories, list, list sub category, list sub categories, sidebar, widget, plugin
+Tags: menu, url, string, contain, conditional, category, categories, sub category, sub categories, list, list sub category, list sub categories, sidebar, widget, plugin
 Requires at least: 3.0
 Tested up to: 3.4
 Stable tag: 1.1
@@ -28,7 +28,7 @@ This section describes how to install the plugin and get it working.
 
 1. Upload `menu_url_string` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Go to `Appearance` -> `Widgets`. Drag and Drop the 'url_conditionnal_Menu_Widget' into a sidebar area.
+3. Go to `Appearance` -> `Widgets`. Drag and Drop the 'url_conditional_Menu_Widget' into a sidebar area.
 
 == Frequently Asked Questions ==
 

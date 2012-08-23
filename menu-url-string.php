@@ -1,20 +1,20 @@
 <?php
 /*
-Plugin Name: Url Conditionnal Category List
+Plugin Name: Url Conditional Category List
 Plugin URI: http://www.pixel-conception.com/menu_url_plugin_wordpress.html
 Version: 1.1
 Description: This Widget Plugin enables a list or dropdown of categories based if the url contain a certain string
 Author: Rousseau Antoine
 Author URI: http://www.pixel-conception.com/
 */
-class url_conditionnal_category_Widget extends WP_Widget {
+class url_conditional_category_Widget extends WP_Widget {
 
 	/**
 	 * Widget setup.
 	 */
-	function url_conditionnal_category_Widget(){
-		$widget_ops = array('classname' => 'url_conditionnal_category_Widget custom-formatting', 'description' => 'This plugin enables a menu depend if a string is found in url.');
-		$this->WP_Widget('url_conditionnal_category_Widget', 'url_conditionnal_category_Widget', $widget_ops);
+	function url_conditional_category_Widget(){
+		$widget_ops = array('classname' => 'url_conditional_category_Widget custom-formatting', 'description' => 'This plugin enables a menu depend if a string is found in url.');
+		$this->WP_Widget('url_conditional_category_Widget', 'url_conditional_category_Widget', $widget_ops);
 	}// e
 	/**
 	 * How to display the widget on the screen.
@@ -123,4 +123,4 @@ $instance['keyword'] = strip_tags( $new_instance['keyword'] );
 <?php
 	}
 }
-add_action( 'widgets_init', create_function('', 'return register_widget("url_conditionnal_category_Widget");') );
+add_action( 'widgets_init', create_function('', 'return register_widget("url_conditional_category_Widget");') );
